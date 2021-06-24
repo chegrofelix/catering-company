@@ -1,5 +1,60 @@
-.jumbotron{
-    background-image: url("https://images.unsplash.com/photo-1484156818044-c040038b0719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80");
-    text-align: center;
-    color: white;
+h1{
+    font-family: 'Chelsea Market', cursive;
+    justify-content: center; 
+    text-align: center; 
 }
+.footer{
+    background-color: #EDEDED;
+    
+}
+nav{
+    background-color: #EDEDED;
+    font-family: 'Chelsea Market', cursive;
+    font-size: 1.5rem;
+    
+}
+.banner{
+    background-image: url("./images/clem-onojeghuo-zlABb6Gke24-unsplash.jpg");
+    width: 100%;
+    color: white;
+    text-align: center;
+    height: 10rem;
+   
+
+}
+.banner > p{
+    padding-top: 3rem;
+    font-size: 2rem;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.card{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+
+}
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+  .small{
+      background-color: black;
+      color: white;
+      text-align: center;
+  }
+  .footer > a{
+      font-size: 2rem;
+  }
